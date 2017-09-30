@@ -4,3 +4,6 @@ git add README.md
 git commit -m "first commit"
 git remote add origin http://github.com/fengwfrank/GitLearning.git
 git push -u origin master
+
+# create branch and switch to it
+git checkout -b frank

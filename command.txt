@@ -1,0 +1,6 @@
+# first commit command line
+echo "# GitLearning" > README.md
+git add README.md
+git commit -m "first commit"
+git remote add origin http://github.com/fengwfrank/GitLearning.git
+git push -u origin master
